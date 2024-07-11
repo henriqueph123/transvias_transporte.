@@ -1,0 +1,147 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("pexels-pixabay-209251.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 535px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 430px;
+  box-shadow: -2px 2px 8px 0px rgba(128,128,128,1);
+  margin: 0 -90px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 50px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: auto;
+  text-shadow: 0px 2px 8px rgba(128,128,128,1);
+  font-size: 1.125rem;
+  margin: -15px -38px 0 27px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 166px;
+  margin: -268px -27px 60px 27px;
+}
+
+.u-section-1 .u-btn-1 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 17px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 100% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 594px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 263px;
+    margin-top: 55px;
+    margin-bottom: 0;
+    --radius: 10px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 23px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 11px;
+    margin-right: -60px;
+    margin-left: 50px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    margin-top: -35px;
+    margin-right: 42px;
+    margin-left: 31px;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 181px;
+    margin-top: 16px;
+    margin-right: -42px;
+    margin-left: 42px;
+  }
+
+  .apk {
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.apk {
+  color: blue;
+  text-decoration: none;
+  font-size: 20px;
+  border: 2px solid blue;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: ;color: darkgray;
+  margin-top: 50px;
+  margin-left: 80px;
+  width: 150px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: 10px; 
+}
+
+
+.apk:hover {
+  background-color: blue;
+  color: white;
+
+}
+
+}
